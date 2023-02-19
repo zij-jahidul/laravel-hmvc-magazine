@@ -1,0 +1,8 @@
+1. currency setting
+2. page permission on admin & advertisement
+3. pricing filtering on view all page
+4. advertisement view & details page on 
+
+
+
+I am a Software Engineer with strong skills in Website and Web-based Application development having expertise in Laravel, Wordpress, JavaScript, Bootstrap, jQuery, and also experienced in developing Android Applications. I have been working for Ryans IT Limited, a renowned IT Company in Bangladesh, since 2013.

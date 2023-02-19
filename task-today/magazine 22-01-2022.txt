@@ -1,0 +1,23 @@
+AmountFormatterHelper er baki kaj gula ! 
+intial value
+
+currency 
+
+submit hobe.! magazine
+Approve Status uthai dite hobe. 
+
+admins table->
+is_trusted (0,1)
+
+
+img->alt tag e title
+
+
+slug ashche ki na! 
+
+
+advertisement er ! start_date, and end_date
+
+eita wise eiii frontend e ads show korbe! 
+
+
